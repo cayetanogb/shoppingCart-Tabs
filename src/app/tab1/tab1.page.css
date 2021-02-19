@@ -4,7 +4,8 @@
   left: 0;
   right: 0;
   top: 50%;
-  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
 }
 
 #container strong {
@@ -15,9 +16,7 @@
 #container p {
   font-size: 16px;
   line-height: 22px;
-
   color: #8c8c8c;
-
   margin: 0;
 }
 
@@ -44,3 +43,4 @@ ion-fab-button {
   min-width: 25px;
   z-index: 10;
 }
+/*# sourceMappingURL=tab1.page.css.map */

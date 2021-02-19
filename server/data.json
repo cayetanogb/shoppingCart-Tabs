@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pizza Salami",
+      "price": 8.99,
+      "amount": 1,
+      "fav": false
+    },
+    {
+      "id": 2,
+      "name": "Pizza Classic",
+      "price": 5.49,
+      "amount": 1,
+      "fav": false
+    },
+    {
+      "id": 3,
+      "name": "Sliced Bread",
+      "price": 4.99,
+      "amount": 1,
+      "fav": false
+    },
+    {
+      "id": 4,
+      "name": "Salad",
+      "price": 6.99,
+      "amount": 1,
+      "fav": false
+    }
+  ],
+  "pedidos": [
+    {
+      "id": "RP9G7I",
+      "total": 17.98,
+      "productos": [
+        {
+          "id": 1,
+          "name": "Pizza Salami",
+          "price": 8.99,
+          "amount": 2,
+          "fav": false
+        }
+      ]
+    },
+    {
+      "id": "8ZHJTZ",
+      "total": 8.99,
+      "productos": [
+        {
+          "id": 1,
+          "name": "Pizza Salami",
+          "price": 8.99,
+          "amount": 1,
+          "fav": false
+        }
+      ]
+    }
+  ]
+}
